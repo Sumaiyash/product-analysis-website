@@ -2,7 +2,7 @@
 
 ## Live Website Link:
 
-[https://soft-biscotti-eeca56.netlify.app/](https://soft-biscotti-eeca56.netlify.app/).
+[https://benevolent-lamington-5b34b9.netlify.app/](https://benevolent-lamington-5b34b9.netlify.app/).
 
 ## Projects Overview:
 - Installed tailwind CSS, react router, fontawesome, recharts.

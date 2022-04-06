@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Rista Rizana",
+        "comment": "Best product for all skin types",
+        "rating": 4,
+        "img": "/image/sumu.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tonima Toma",
+        "comment": "Best Experience ",
+        "rating": 5,
+        "img": "/image/toma.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Selina Yasmin",
+        "comment": "Be simple",
+        "rating": 5,
+        "img": "/image/selina.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Shafinur Saykat",
+        "comment": "Got Exactly What I Expected.",
+        "rating": 4.5,
+        "img": "/image/safu.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mahadi Hasan",
+        "comment": "Awesome !!!",
+        "rating": 3,
+        "img": "/image/maddy.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Tamanna Tumpa",
+        "comment": "it very good for my skin",
+        "rating": 5,
+        "img": "/image/tumpa.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Lamiya Ritu",
+        "comment": "Superb!!!",
+        "rating": 5,
+        "img": "/image/ritu.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bayazid Nihal",
+        "comment": "Ami taka save kore aro 10 ta kinbo",
+        "rating": 4,
+        "img": "/image/nihal.jgp"
+    },
+    {
+        "id": 9,
+        "name": "Rodmila Amena",
+        "comment": "Its nice.",
+        "rating": 2,
+        "img": "/image/amu.jpg"
+    }
+]

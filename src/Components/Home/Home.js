@@ -11,26 +11,23 @@ const Home = () => {
             <div className=' grid grid-cols-2 m-4'>
                 <div className='flex justify-center items-center'>
                     <div>
-                        <h1 className='text-5xl'>Welcome to <span className='text-orange-500'>Tech Zone BD</span></h1>
-                        <p className='text-xl text-left mt-6'>THERE'S NO SHORTAGE of products that are hailed
-                            by their creators as "revolutionary" or "totally transformative"
-                            upon launch. Sure, every company that births a new gadget into the
-                            world wants to believe that its innovative design and fancy new
-                            manufacturing process is going to profoundly change the way we
-                            experience technology in the future. But of course they think
-                            this way—it sometimes actually happens.</p>
-                        <button className='text-lg bg-orange-500 text-white font-semibold px-4 py-2 rounded'>Live Demo</button>
+                        <h1 className='text-5xl'>Welcome to <span className='text-indigo-900'>Skin  Care BD</span></h1>
+                        <p className='text-xl text-left mt-6'>Keep skin clean and pores clear with a daily face wash like Simple® Water
+                            Boost Micellar Gel Wash. It's packed full of micellar cleansing bubbles that gently glide over the skin's
+                            surface, lifting impurities, as it cleanses and hydrates—making it one of our best face washes
+                            for sensitive skin.</p>
+                        <button className='text-lg bg-indigo-500 text-white font-semibold my-10 px-6 py-2 rounded'>Live Demo</button>
                     </div>
                 </div>
                 <div className='flex justify-center items-center'>
-                    <img src="image/watch.jpg" alt="" />
+                    <img src="image/img-1.png" alt="" />
                 </div>
             </div>
             <div>
-                <h1 className='text-4xl my-6'>Customer Reviews</h1>
-                <div className='grid grid-cols-3 gap-6'>
+                <h1 className='text-4xl my-6 text-indigo-900'>Customer Reviews</h1>
+                <div className='grid grid-cols-3 gap-6  border-cyan-200'>
                     {
-                        firstReviews.map(fr => <div key={fr.id} className='mb-6 p-5 bg-orange-100 rounded'>
+                        firstReviews.map(fr => <div key={fr.id} className='mb-6 p-5 bg-indigo-100 border-4 rounded'>
                             <div className='flex justify-center'>
                                 <img className='w-20' src={fr.img} alt="" />
                             </div>
@@ -43,7 +40,7 @@ const Home = () => {
                     }
                 </div>
                 <Link to='/reviews'>
-                    <button className='text-lg bg-orange-500 text-white font-semibold px-4 py-2 rounded'>See All Reviews</button>
+                    <button className='text-lg bg-indigo-500 text-white font-semibold px-4 py-2 rounded'>See All Reviews</button>
                 </Link>
             </div>
         </div>

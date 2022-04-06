@@ -2,9 +2,10 @@
     padding: 5px 10px;
     margin-left: 10px;
     border-radius: 5px;
-    background-color: azure;
+    background-color: rgb(238, 230, 238);
 }
 
 .nav-bar a:focus {
-    color: orange;
+    color: rgb(161, 91, 211);
+
 }

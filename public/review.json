@@ -53,13 +53,13 @@
         "name": "Bayazid Nihal",
         "comment": "Ami taka save kore aro 10 ta kinbo",
         "rating": 4,
-        "img": "/image/nihal.jgp"
+        "img": "/image/nihal.jpg"
     },
     {
         "id": 9,
         "name": "Rodmila Amena",
         "comment": "Its nice.",
         "rating": 2,
-        "img": "/image/amu.jpg"
+        "img": "/image/amujpg.jpg"
     }
 ]

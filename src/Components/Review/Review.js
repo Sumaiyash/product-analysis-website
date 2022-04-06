@@ -4,7 +4,7 @@ import './Review.css'
 const review = (props) => {
     const { name, comment, rating, img } = props.review;
     return (
-        <div className='mb-6 p-5 bg-orange-100 rounded'>
+        <div className='mb-6 p-5 bg-indigo-100 rounded'>
             <div className='flex justify-center'>
                 <img className='w-20' src={img} alt="" />
             </div>
